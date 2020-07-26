@@ -2,7 +2,7 @@ Dene Farrell
 
 ------------------------------------------------------------------------
 
-  github | linkedIn
+  github | linkedIn | resume
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ New York, Sept 2019 – Present
     Company Operational Notifications, CRM to ERP Integration, PII
     Anonymization, ML Pipeline Development and Deployment Framework
 
--   Worked with a cross-org stakeholders while constantly adapting to
-    meet the data needs at Latch.
+-   Worked with diverse stakeholders while constantly adapting to meet
+    the data needs at Latch.
 
 Capital One - Principal Data Engineer
 New York, May 2017 – Sept 2019
@@ -93,8 +93,7 @@ Skills
 
 Programming Languages
 
-    Python: 6 Years experience. I’v built many products with python. I’m
-    not married to it, but I can build fast and wide with it.
+    Python: 6 Years experience. I’ve built many products with python.
 
     Bash: I use it lightly, but pretty consistently for convenience
     scripts, installation scripts, etc. e.g. dots
@@ -102,9 +101,9 @@ Programming Languages
     SQL: Well versed in sql. I have built products that leverage RDS,
     Snowflake, and Spark SQL.
 
-    Scala: Completed EPFL Functional Program Courses in 2019 and I have
-    been developing in production since 2019. I had already completed a
-    comple projects in Scala prior to that as well.
+    Scala: Completed Courses from EPFL in Functional Programming and
+    Software Development with Scala. I have three years experience
+    developing in Scala.
 
     JavaScript, React: I’ve used JavaScript and React in my side
     project, Gifthorse.
@@ -134,4 +133,4 @@ Team Management
 
 ------------------------------------------------------------------------
 
-  pdf • txt • doc
+  pdf • txt • doc • web • resume-generator

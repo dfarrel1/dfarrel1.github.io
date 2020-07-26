@@ -4,8 +4,8 @@ Dene Farrell
 ----
 
 > [github] | 
-> [linkedIn]
-
+> [linkedIn] |
+> [resume][web]
 
 ----
 
@@ -33,7 +33,7 @@ New York, Sept 2019 – Present
 
 * Delivered several cross-company services: Data Centralization and Governance, Data Ecosystem Management with Automated Analytics, Company Operational Notifications, CRM to ERP Integration, PII Anonymization, ML Pipeline Development and Deployment Framework 
 
-* Worked with a cross-org stakeholders while constantly adapting to meet the data needs at Latch.
+* Worked with diverse stakeholders while constantly adapting to meet the data needs at Latch.
 
 **Capital One** - Principal Data Engineer  
 New York, May 2017 – Sept 2019  
@@ -82,13 +82,13 @@ Skills
 
 Programming Languages
 
-:   **Python:** 6 Years experience. I'v built many products with python. I'm not married to it, but I can build fast and wide with it.
+:   **Python:** 6 Years experience. I've built many products with python. 
 
 :   **Bash:** I use it lightly, but pretty consistently for convenience scripts, installation scripts, etc. e.g. [dots]
 
 :   **SQL:** Well versed in sql. I have built products that leverage RDS, Snowflake, and Spark SQL. 
 
-:   **Scala:** Completed EPFL Functional Program Courses in 2019 and I have been developing in production since 2019. I had already completed a comple projects in Scala prior to that as well.
+:   **Scala:** Completed Courses from EPFL in Functional Programming and Software Development with Scala. I have three years experience developing in Scala. 
 
 :   **JavaScript, React:** I've used JavaScript and React in my side project, Gifthorse.
 
@@ -105,11 +105,7 @@ Machine Learning
 
 Team Management 
 
-:    Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder Communication
-
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
+:    Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder Communication  
 
 ----
 
@@ -117,11 +113,13 @@ Team Management
 
 ---- 
 
-> [pdf] • [txt] • [doc]
+> [pdf] • [txt] • [doc] • [web] • [resume-generator]
 
-[pdf]: ./index.pdf "pdf version"
-[txt]: ./index.txt "tex version"
-[doc]: ./index.docx "doc version"
+[pdf]: https://dfarrel1.github.io/index.pdf "pdf version"
+[txt]: https://dfarrel1.github.io/index.txt "tex version"
+[doc]: https://dfarrel1.github.io/index.docx "doc version"
+[web]: https://dfarrel1.github.io/ "web version"
+[resume-generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
 [github]: https://github.com/dfarrel1
 [linkedin]: https://www.linkedin.com/in/denefarrell/
 [gifthorse]: https://gifthorse.shop
