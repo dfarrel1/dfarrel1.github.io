@@ -6,6 +6,7 @@
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
+
 \startmode[*mkii]
   \enableregime[utf-8]  
   \setupcolors[state=start]
@@ -20,10 +21,18 @@
 \setupinteraction[state=start, color=sectioncolor]
 
 \setuppapersize [A4][A4]
-\setuplayout    [width=middle, height=middle,
-                 backspace=20mm, cutspace=0mm,
-                 topspace=10mm, bottomspace=20mm,
-                 header=0mm, footer=0mm]
+\setuplayout    
+  [
+    width=middle, 
+    height=middle,
+    backspace=20mm,
+    cutspace=0mm,
+    topspace=10mm,
+    bottomspace=20mm,
+    header=0mm,
+    footer=0mm,
+    margin=0pt,
+  ]
 
 %\setuppagenumbering[location={footer,center}]
 
@@ -73,16 +82,16 @@
 \thinrule
 
 \startblockquote
-Something Else.
+\useURL[url1][https://github.com/dfarrel1][][github]\from[url1]
+\letterbar{}
+\useURL[url2][https://www.linkedin.com/in/denefarrell/][][linkedIn]\from[url2]
 \stopblockquote
 
 \thinrule
 
 \startblockquote
-I like working with engineers, data scientists, and stakeholders across
-a large variety of data use cases to find solutions that meet business
-needs in a technically rigourous approach that scales and provides
-immediate and future benefits.
+In love with data driven decisions and building the platforms that
+enable them.
 \stopblockquote
 
 \thinrule
@@ -108,12 +117,12 @@ New York, Sept 2019 -- Present
   scientist, and a business analyst
 \item
   Delivered several cross-company services: Data Centralization and
-  Governance, Data Ecosystem Management with Automated Analytics Job
-  Support, Company Operational Notifications, CRM to ERP Integration,
-  PII Anonymization, ML Pipeline Development and Deployment Framework
+  Governance, Data Ecosystem Management with Automated Analytics,
+  Company Operational Notifications, CRM to ERP Integration, PII
+  Anonymization, ML Pipeline Development and Deployment Framework
 \item
-  Worked with a varied set of internal stakeholders while adapting to
-  meet the data needs across Latch.
+  Worked with a cross-org stakeholders while constantly adapting to meet
+  the data needs at Latch.
 \stopitemize
 
 {\bf Capital One} - Principal Data Engineer\crlf
@@ -122,8 +131,8 @@ New York, May 2017 -- Sept 2019
 \startitemize
 \item
   Lead Card-on-file Detections: Successfully built and deployed a
-  classification pipeline that identifies for all credit holders which
-  merchants have stored their credentials on file.
+  classification pipeline that identifies for all credit card holders
+  which merchants have stored their credentials on file.
 \item
   Re-architected a monolith ML application to microservices using AWS
   serverless services
@@ -143,6 +152,9 @@ New York, Jan.~2017 -- Mar.~2017
 \item
   Implemented fleet performance analysis with live streaming and
   historical pattern visualizations.
+\item
+  Tech stack: Kafka, Hadoop, Spark Streaming, ElasticSearch, Kibana.
+  {[}Python + Scala{]}
 \stopitemize
 
 {\bf Sloan Kettering Institute} - Image Analysis Engineer\crlf
@@ -150,8 +162,8 @@ New York, Dec.~2008 -- Jan.~2017
 
 \startitemize
 \item
-  Developed image processing applications for understanding early
-  Drosophila embryo development.
+  Built image processing applications for understanding early Drosophila
+  embryo development.
 \item
   Made advanced computational tools accessible to non-technical users
   with intuitive interfaces.
@@ -182,15 +194,22 @@ New York, June 2018 -- Present
 \subsection[title={Skills},reference={skills}]
 
 \startdescription{Programming Languages}
-  {\bf Python:} something about python.
+  {\bf Python:} 6 Years experience. I'v built many products with python.
+  I'm not married to it, but I can build fast and wide with it.
 
-  {\bf Bash:} something about bash.
+  {\bf Bash:} I use it lightly, but pretty consistently for convenience
+  scripts, installation scripts, etc.
+  e.g.~\useURL[url3][https://github.com/dfarrel1/dots][][dots]\from[url3]
 
-  {\bf SQL:} something about SQL
+  {\bf SQL:} Well versed in sql. I have built products that leverage
+  RDS, Snowflake, and Spark SQL.
 
-  {\bf Scala:} something about Scala
+  {\bf Scala:} Completed EPFL Functional Program Courses in 2019 and I
+  have been developing in production since 2019. I had already completed
+  a comple projects in Scala prior to that as well.
 
-  {\bf JavaScript, React:} something about JavaScript
+  {\bf JavaScript, React:} I've used JavaScript and React in my side
+  project, Gifthorse.
 
   Basic knowledge of {\bf C}, {\bf Java}, {\bf D3}
 \stopdescription
@@ -198,7 +217,7 @@ New York, June 2018 -- Present
 \startdescription{Data Engineering}
   AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask,
   Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI,
-  Snowflake, Docker, Kubernetes
+  Snowflake, Docker, Kubernetes, System Architecture and System Design
 \stopdescription
 
 \startdescription{Machine Learning}
@@ -208,23 +227,23 @@ New York, June 2018 -- Present
 \stopdescription
 
 \startdescription{Team Management}
-  Roadmap Planning, Jira, Agile, Scrum, Kanban, Cross org collaboration
-  strategies
+  Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder
+  Communication
 \stopdescription
 
 \thinrule
 
 \startblockquote
-\useURL[url1][mailto:dene.farrell@gmail.com][][dene.farrell@gmail.com]\from[url1]
+\useURL[url4][mailto:dene.farrell@gmail.com][][dene.farrell@gmail.com]\from[url4]
 • 914.602.3847 • New York
 \stopblockquote
 
 \thinrule
 
 \startblockquote
-\useURL[url2][./index.pdf][][pdf]\from[url2] •
-\useURL[url3][./index.txt][][txt]\from[url3] •
-\useURL[url4][./index.docx][][doc]\from[url4]
+\useURL[url5][./index.pdf][][pdf]\from[url5] •
+\useURL[url6][./index.txt][][txt]\from[url6] •
+\useURL[url7][./index.docx][][doc]\from[url7]
 \stopblockquote
 
 \stoptext

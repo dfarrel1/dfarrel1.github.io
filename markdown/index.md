@@ -3,14 +3,13 @@ Dene Farrell
 
 ----
 
-> Something Else.
+> [github] | 
+> [linkedIn]
+
 
 ----
 
->  I like working with engineers, data scientists, and stakeholders across a 
-> large variety of data use cases to find solutions that meet 
-> business needs in a technically rigourous approach that scales and 
-> provides immediate and future benefits. 
+>  In love with data driven decisions and building the platforms that enable them.
 
 ----
 
@@ -32,14 +31,14 @@ New York, Sept 2019 – Present
 
 * Managed a team of five including three data engineers, a data scientist, and a business analyst
 
-* Delivered several cross-company services: Data Centralization and Governance, Data Ecosystem Management with Automated Analytics Job Support, Company Operational Notifications, CRM to ERP Integration, PII Anonymization, ML Pipeline Development and Deployment Framework 
+* Delivered several cross-company services: Data Centralization and Governance, Data Ecosystem Management with Automated Analytics, Company Operational Notifications, CRM to ERP Integration, PII Anonymization, ML Pipeline Development and Deployment Framework 
 
-* Worked with a varied set of internal stakeholders while adapting to meet the data needs across Latch.
+* Worked with a cross-org stakeholders while constantly adapting to meet the data needs at Latch.
 
 **Capital One** - Principal Data Engineer  
 New York, May 2017 – Sept 2019  
 
-* Lead Card-on-file Detections: Successfully built and deployed a classification pipeline that identifies for all credit holders which merchants have stored their credentials on file.
+* Lead Card-on-file Detections: Successfully built and deployed a classification pipeline that identifies for all credit card holders which merchants have stored their credentials on file.
 
 * Re-architected a monolith ML application to microservices using AWS serverless services
 
@@ -52,10 +51,12 @@ New York, Jan. 2017 – Mar. 2017
 
 * Implemented fleet performance analysis with live streaming and historical pattern visualizations. 
 
+* Tech stack: Kafka, Hadoop, Spark Streaming, ElasticSearch, Kibana. [Python + Scala]
+
 **Sloan Kettering Institute** - Image Analysis Engineer  
 New York, Dec. 2008 – Jan. 2017  
 
-* Developed image processing applications  for understanding early Drosophila embryo development.
+* Built image processing applications for understanding early Drosophila embryo development.
 
 * Made advanced computational tools accessible to non-technical users with intuitive interfaces.
 
@@ -81,22 +82,22 @@ Skills
 
 Programming Languages
 
-:   **Python:** something about python.
+:   **Python:** 6 Years experience. I'v built many products with python. I'm not married to it, but I can build fast and wide with it.
 
-:   **Bash:** something about bash.
+:   **Bash:** I use it lightly, but pretty consistently for convenience scripts, installation scripts, etc. e.g. [dots]
 
-:   **SQL:** something about SQL
+:   **SQL:** Well versed in sql. I have built products that leverage RDS, Snowflake, and Spark SQL. 
 
-:   **Scala:** something about Scala
+:   **Scala:** Completed EPFL Functional Program Courses in 2019 and I have been developing in production since 2019. I had already completed a comple projects in Scala prior to that as well.
 
-:   **JavaScript, React:** something about JavaScript
+:   **JavaScript, React:** I've used JavaScript and React in my side project, Gifthorse.
 
 :   Basic knowledge of **C**, **Java**, **D3**
 
 
 Data Engineering
 
-:   AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask, Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI, Snowflake, Docker, Kubernetes
+:   AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask, Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI, Snowflake, Docker, Kubernetes, System Architecture and System Design
 
 Machine Learning
 
@@ -104,7 +105,7 @@ Machine Learning
 
 Team Management 
 
-:    Roadmap Planning, Jira, Agile, Scrum, Kanban, Cross org collaboration strategies
+:    Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder Communication
 
 
 [ref]: https://github.com/githubuser/superlongprojectname
@@ -121,3 +122,9 @@ Team Management
 [pdf]: ./index.pdf "pdf version"
 [txt]: ./index.txt "tex version"
 [doc]: ./index.docx "doc version"
+[github]: https://github.com/dfarrel1
+[linkedin]: https://www.linkedin.com/in/denefarrell/
+[gifthorse]: https://gifthorse.shop
+[dots]: https://github.com/dfarrel1/dots
+
+

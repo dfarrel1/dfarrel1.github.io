@@ -6,6 +6,7 @@
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
+
 \startmode[*mkii]
   \enableregime[utf-8]  
   \setupcolors[state=start]
@@ -23,10 +24,18 @@ $endif$
 \setupinteraction[state=start, color=sectioncolor]
 
 \setuppapersize [$if(papersize)$$papersize$$else$letter$endif$][$if(papersize)$$papersize$$else$letter$endif$]
-\setuplayout    [width=middle, height=middle,
-                 backspace=20mm, cutspace=0mm,
-                 topspace=10mm, bottomspace=20mm,
-                 header=0mm, footer=0mm]
+\setuplayout    
+  [
+    width=middle, 
+    height=middle,
+    backspace=20mm,
+    cutspace=0mm,
+    topspace=10mm,
+    bottomspace=20mm,
+    header=0mm,
+    footer=0mm,
+    margin=0pt,
+  ]
 
 %\setuppagenumbering[location={footer,center}]
 
