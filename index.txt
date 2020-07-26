@@ -29,11 +29,10 @@ New York, Sept 2019 – Present
 -   Managed a team of five including three data engineers, a data
     scientist, and a business analyst
 
--   Delivered several cross-company microservices: Data Centralization
-    and Governance, Data Ecosystem Management with Automated Analytics
-    Job Support, Company Operational Notifications, CRM to ERP
-    Integration, PII Anonymization, ML Pipeline Development and
-    Deployment Framework
+-   Delivered several cross-company services: Data Centralization and
+    Governance, Data Ecosystem Management with Automated Analytics Job
+    Support, Company Operational Notifications, CRM to ERP Integration,
+    PII Anonymization, ML Pipeline Development and Deployment Framework
 
 -   Worked with a varied set of internal stakeholders while adapting to
     meet the data needs across Latch.

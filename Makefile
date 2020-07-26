@@ -1,7 +1,7 @@
 OUT_DIR=.
 IN_DIR=./markdown
 STYLES_DIR=styles
-STYLE=chmduquesne
+STYLE=denefarrell
 
 all: html pdf docx rtf txt
 
