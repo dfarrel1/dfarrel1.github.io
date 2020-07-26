@@ -154,8 +154,23 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=2,
    ["realpage"]=1,
-   ["reference"]="education",
+   ["reference"]="experience",
    ["section"]=2,
+  },
+  ["titledata"]={
+   ["label"]="subsection",
+   ["title"]="Experience",
+  },
+ },
+ {
+  ["metadata"]=4,
+  ["numberdata"]=8,
+  ["references"]={
+   ["block"]="bodypart",
+   ["internal"]=3,
+   ["realpage"]=1,
+   ["reference"]="education",
+   ["section"]=3,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -163,42 +178,27 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=7,
+  ["metadata"]=9,
   ["references"]={
-   ["internal"]=3,
+   ["internal"]=4,
    ["order"]=1,
    ["realpage"]=1,
-   ["section"]=2,
+   ["section"]=3,
   },
   ["titledata"]={
    ["title"]="2008",
   },
  },
  {
-  ["metadata"]=7,
+  ["metadata"]=9,
   ["references"]={
-   ["internal"]=4,
-   ["order"]=2,
-   ["realpage"]=1,
-   ["section"]=2,
-  },
-  ["titledata"]={
-   ["title"]="2006",
-  },
- },
- {
-  ["metadata"]=4,
-  ["numberdata"]=9,
-  ["references"]={
-   ["block"]="bodypart",
    ["internal"]=5,
-   ["realpage"]=1,
-   ["reference"]="experience",
+   ["order"]=2,
+   ["realpage"]=2,
    ["section"]=3,
   },
   ["titledata"]={
-   ["label"]="subsection",
-   ["title"]="Experience",
+   ["title"]="2006",
   },
  },
  {
@@ -208,12 +208,12 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=6,
    ["realpage"]=2,
-   ["reference"]="side-project",
+   ["reference"]="side-projects",
    ["section"]=4,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Side Project",
+   ["title"]="Side Projects",
   },
  },
  {
@@ -232,7 +232,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=7,
+  ["metadata"]=9,
   ["references"]={
    ["internal"]=8,
    ["order"]=3,
@@ -244,7 +244,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=7,
+  ["metadata"]=9,
   ["references"]={
    ["internal"]=9,
    ["order"]=4,
@@ -256,7 +256,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=7,
+  ["metadata"]=9,
   ["references"]={
    ["internal"]=10,
    ["order"]=5,
@@ -268,7 +268,7 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=7,
+  ["metadata"]=9,
   ["references"]={
    ["internal"]=11,
    ["order"]=6,
@@ -400,21 +400,21 @@ utilitydata.job.packed={
    ["separatorset"]="default",
    ["set"]="all",
   },
-  {
-   ["catcodes"]=8,
-   ["kind"]="construction",
-   ["level"]=4,
-   ["name"]="description",
-  },
   { 0, 0, 1, 2 },
   {
    ["block"]="bodypart",
    ["conversionset"]="default",
    ["hidenumber"]=true,
    ["language"]="en",
-   ["numbers"]=8,
+   ["numbers"]=7,
    ["separatorset"]="default",
    ["set"]="all",
+  },
+  {
+   ["catcodes"]=8,
+   ["kind"]="construction",
+   ["level"]=4,
+   ["name"]="description",
   },
   { 0, 0, 1, 3 },
   {

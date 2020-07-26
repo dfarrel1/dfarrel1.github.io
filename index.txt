@@ -11,14 +11,6 @@ Dene Farrell
 
 ------------------------------------------------------------------------
 
-Education
-
-2008
-    M.S., Systems Science; State University of New York, Binghamton
-
-2006
-    B.S., Bioengineering; State University of New York, Binghamton
-
 Experience
 
 Latch - Senior Manager, Data Engineering
@@ -75,7 +67,15 @@ New York, Dec. 2008 – Jan. 2017
 
 -   Co-authored several publication in premiere journals such as Nature.
 
-Side Project
+Education
+
+2008
+    M.S., Systems Science; State University of New York, Binghamton
+
+2006
+    B.S., Bioengineering; State University of New York, Binghamton
+
+Side Projects
 
 Gifthorse Inc (gifthorse.shop) - Founder and Developer
 New York, June 2018 – Present
@@ -95,18 +95,18 @@ Programming Languages
 
     Python: 6 Years experience. I’ve built many products with python.
 
-    Bash: I use it lightly, but pretty consistently for convenience
-    scripts, installation scripts, etc. e.g. dots
-
-    SQL: Well versed in sql. I have built products that leverage RDS,
-    Snowflake, and Spark SQL.
-
     Scala: Completed Courses from EPFL in Functional Programming and
     Software Development with Scala. I have three years experience
     developing in Scala.
 
     JavaScript, React: I’ve used JavaScript and React in my side
     project, Gifthorse.
+
+    SQL: Well versed in sql. I have built products that leverage RDS,
+    Snowflake, and Spark SQL.
+
+    Bash: I use it lightly, but pretty consistently for convenience
+    scripts, installation scripts, etc. e.g. dots
 
     Basic knowledge of C, Java, D3
 
@@ -133,4 +133,4 @@ Team Management
 
 ------------------------------------------------------------------------
 
-  pdf • txt • doc • web • resume-generator
+  pdf • txt • doc • web • generator • one-page

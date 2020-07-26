@@ -13,17 +13,6 @@ Dene Farrell
 
 ----
 
-Education
----------
-
-2008
-:   **M.S., Systems Science**; State University of New York, Binghamton
-
-2006
-:   **B.S., Bioengineering**; State University of New York, Binghamton
-								      
-
-
 Experience
 ---------
 **Latch** - Senior Manager, Data Engineering  
@@ -64,8 +53,17 @@ New York, Dec. 2008 – Jan. 2017
 
 * Co-authored several publication in premiere journals such as Nature.
 
+Education
+---------
 
-Side Project
+2008
+:   **M.S., Systems Science**; State University of New York, Binghamton
+
+2006
+:   **B.S., Bioengineering**; State University of New York, Binghamton
+								      
+
+Side Projects
 --------------------
 
 **Gifthorse Inc** (gifthorse.shop) - Founder and Developer  
@@ -84,13 +82,13 @@ Programming Languages
 
 :   **Python:** 6 Years experience. I've built many products with python. 
 
-:   **Bash:** I use it lightly, but pretty consistently for convenience scripts, installation scripts, etc. e.g. [dots]
-
-:   **SQL:** Well versed in sql. I have built products that leverage RDS, Snowflake, and Spark SQL. 
-
 :   **Scala:** Completed Courses from EPFL in Functional Programming and Software Development with Scala. I have three years experience developing in Scala. 
 
 :   **JavaScript, React:** I've used JavaScript and React in my side project, Gifthorse.
+
+:   **SQL:** Well versed in sql. I have built products that leverage RDS, Snowflake, and Spark SQL. 
+
+:   **Bash:** I use it lightly, but pretty consistently for convenience scripts, installation scripts, etc. e.g. [dots]
 
 :   Basic knowledge of **C**, **Java**, **D3**
 
@@ -113,13 +111,14 @@ Team Management
 
 ---- 
 
-> [pdf] • [txt] • [doc] • [web] • [resume-generator]
+> [pdf] • [txt] • [doc] • [web] • [generator] • [one-page]
 
 [pdf]: https://dfarrel1.github.io/index.pdf "pdf version"
 [txt]: https://dfarrel1.github.io/index.txt "tex version"
 [doc]: https://dfarrel1.github.io/index.docx "doc version"
 [web]: https://dfarrel1.github.io/ "web version"
-[resume-generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
+[generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
+[one-page]: https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2020-July-onepage.pdf "one page pdf"
 [github]: https://github.com/dfarrel1
 [linkedin]: https://www.linkedin.com/in/denefarrell/
 [gifthorse]: https://gifthorse.shop
