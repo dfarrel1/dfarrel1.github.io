@@ -1,0 +1,57 @@
+mtx-context     | run 1: luatex --fmt="/usr/local/texlive/2018/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/formats/luatex/cont-en" --jobname="resume" --lua="/usr/local/texlive/2018/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/formats/luatex/cont-en.lui" --no-parse-first-line --c:currentrun=1 --c:fulljobname="./resume.tex" --c:input="./resume.tex" --c:kindofrun=1 --c:maxnofruns=9 "cont-yes.mkiv"
+
+This is LuaTeX, Version 1.07.0 (TeX Live 2018) 
+ system commands enabled.
+open source     > level 1, order 1, name '/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+system          > 
+system          > ConTeXt  ver: 2018.04.04 00:51 MKIV beta  fmt: 2020.7.26  int: english/english
+system          > 
+system          > 'cont-new.mkiv' loaded
+open source     > level 2, order 2, name '/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+close source    > level 2, order 2, name '/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+system          > files > jobname 'resume', input './resume', result 'resume'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > level 2, order 3, name '/Users/farrelld/SRC/github.com/dfarrel1/dfarrel1hub.io/pandoc-resume/output/resume.tex'
+colors          > defining > unknown library 'hex'
+open source     > level 3, order 4, name '/usr/local/texlive/2018/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+close source    > level 3, order 4, name '/usr/local/texlive/2018/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+structure       > sectioning > section @ level 3 : 0.0.1 -> Dene Farrell
+structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
+structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Experience
+
+Overfull \hbox (12.53577pt too wide) in paragraph at lines 110--115
+ [][][] <1: texgyreheros-regular @ 11.0pt> De-liv-ered sev-eral cross-company mi-croser-vices: Data Cen-tral-iza-tion and Gov-er-nance, Data Ecosys-
+backend         > xmp > using file '/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1, subpage 1
+structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Side Project
+structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Skills
+pages           > flushing realpage 2, userpage 2
+close source    > level 2, order 4, name '/Users/farrelld/SRC/github.com/dfarrel1/dfarrel1hub.io/pandoc-resume/output/resume.tex'
+close source    > level 1, order 4, name '/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+
+mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: /usr/local/texlive/2018/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9
+mkiv lua stats  > resource resolver: loadtime 0.120 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 13 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 410 modules (0.474 sec), 93 tables (0.014 sec), 503 chunks (0.488 sec)
+mkiv lua stats  > traced context: maxstack: 1286, freed: 0, unreachable: 1286
+mkiv lua stats  > cleaned up reserved nodes: 67 nodes, 9 lists of 453
+mkiv lua stats  > node memory usage: 2 glue, 2 kern, 2 penalty, 13 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
+mkiv lua stats  > node list callback tasks: 7 unique task lists, 8 instances (re)created, 437 calls
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: internal: 1497, file: 655, direct: 0, late: 0, function 0, total: 2152 (2152 per page)
+mkiv lua stats  > randomizer: resumed with value 0.33943789980348
+mkiv lua stats  > loaded patterns: en::2, load time: 0.000
+mkiv lua stats  > interactive elements: 4 references, 11 destinations
+mkiv lua stats  > result saved in file: resume.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > loaded fonts: 3 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-regular.otf
+mkiv lua stats  > font engine: otf 3.103, afm 1.513, tfm 1.000, 9 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.148 seconds 
+mkiv lua stats  > pdf annotations: 4 links (4 unique), 0 special
+mkiv lua stats  > used platform: osx-64, type: unix, binary subtree: bin
+mkiv lua stats  > used engine: luatex version 1.07 with functionality level 6686, banner: this is luatex, version 1.07.0 (tex live 2018)
+mkiv lua stats  > control sequences: 46723 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.2, used memory: 150 MB (ctx: 151 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.782 seconds, 2 processed pages, 2 shipped pages, 2.558 pages/second
+system          | total runtime: 1.615 seconds
+
