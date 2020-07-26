@@ -118,6 +118,6 @@ Team Management
 
 > [pdf] • [txt] • [doc]
 
-[pdf]: ./resume.pdf "pdf version"
-[txt]: ./resume.txt "tex version"
-[doc]: ./resume.docx "doc version"
+[pdf]: ./index.pdf "pdf version"
+[txt]: ./index.txt "tex version"
+[doc]: ./index.docx "doc version"
