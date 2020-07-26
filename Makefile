@@ -1,5 +1,5 @@
-OUT_DIR=output
-IN_DIR=markdown
+OUT_DIR=.
+IN_DIR=./markdown
 STYLES_DIR=styles
 STYLE=chmduquesne
 
