@@ -34,8 +34,13 @@ New York, May 2017 – Sept 2019
     classification pipeline that identifies for all credit card holders
     which merchants have stored their credentials on file.
 
+-   Developed a general purpose data visualization tool for handling
+    highly inter-related categorical variables at high volumes, high
+    state variability, low documentation and low stability. Leveraged
+    Spark and D3. Implemented on credit card transaction data.
+
 -   Re-architected a monolith ML application to microservices using AWS
-    serverless services
+    serverless services.
 
 -   Implemented a comprehensive customer profile feature engineering
     pipeline to service a multi-armed bandit call schedule
@@ -77,7 +82,7 @@ Education
 
 Side Projects
 
-Gifthorse Inc (gifthorse.shop) - Founder and Developer
+Gifthorse Inc - Founder and Developer
 New York, June 2018 – Present
 
 -   Developed a fun and easy to use gift recommender service
@@ -114,18 +119,20 @@ Data Engineering
 
     AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask,
     Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI,
-    Snowflake, Docker, Kubernetes, System Architecture and System Design
+    Snowflake, Docker, Kubernetes, System Architecture and System
+    Design, Looker
 
 Machine Learning
 
     Classification, Regression, Data Wrangling, Feature Engineering,
     Entity Resolution, Artificial Neural Networks, Unsupervised Learning
-    Algorithms, K-Means Clustering, PCA
+    Algorithms, K-Means Clustering, PCA, Data Visualization
 
 Team Management
 
     Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder
-    Communication
+    Communication, Software Team Productivity Enhancements, Architecture
+    Decision Records, Software and Data System Documentation Strategies
 
 ------------------------------------------------------------------------
 

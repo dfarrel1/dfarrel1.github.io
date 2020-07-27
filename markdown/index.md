@@ -29,7 +29,9 @@ New York, May 2017 – Sept 2019
 
 * Lead Card-on-file Detections: Successfully built and deployed a classification pipeline that identifies for all credit card holders which merchants have stored their credentials on file.
 
-* Re-architected a monolith ML application to microservices using AWS serverless services
+* Developed a general purpose data visualization tool for handling highly inter-related categorical variables at high volumes, high state variability, low documentation and low stability. Leveraged Spark and D3. Implemented on credit card transaction data.
+
+* Re-architected a monolith ML application to microservices using AWS serverless services.
 
 * Implemented a comprehensive customer profile feature engineering pipeline to service a multi-armed bandit call schedule recommendation service with Python, Snowflake, and Kubernetes.
 
@@ -66,7 +68,7 @@ Education
 Side Projects
 --------------------
 
-**Gifthorse Inc** (gifthorse.shop) - Founder and Developer  
+**Gifthorse Inc** - Founder and Developer  
 New York, June 2018 – Present
 
 * Developed a fun and easy to use gift recommender service
@@ -95,15 +97,15 @@ Programming Languages
 
 Data Engineering
 
-:   AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask, Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI, Snowflake, Docker, Kubernetes, System Architecture and System Design
+:   AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask, Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI, Snowflake, Docker, Kubernetes, System Architecture and System Design, Looker
 
 Machine Learning
 
-:   Classification, Regression, Data Wrangling, Feature Engineering, Entity Resolution, Artificial Neural Networks, Unsupervised Learning Algorithms, K-Means Clustering, PCA
+:   Classification, Regression, Data Wrangling, Feature Engineering, Entity Resolution, Artificial Neural Networks, Unsupervised Learning Algorithms, K-Means Clustering, PCA, Data Visualization
 
 Team Management 
 
-:    Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder Communication  
+:    Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder Communication, Software Team Productivity Enhancements, Architecture Decision Records, Software and Data System Documentation Strategies 
 
 ----
 
@@ -119,9 +121,9 @@ Team Management
 [web]: https://dfarrel1.github.io/ "web version"
 [generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
 [one-page]: https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2020-July-onepage.pdf "one page pdf"
-[github]: https://github.com/dfarrel1
-[linkedin]: https://www.linkedin.com/in/denefarrell/
-[gifthorse]: https://gifthorse.shop
-[dots]: https://github.com/dfarrel1/dots
+[github]: https://github.com/dfarrel1 "personal github"
+[linkedin]: https://www.linkedin.com/in/denefarrell/ "personal linkedin"
+[gifthorse]: https://gifthorse.shop "gifthorse"
+[dots]: https://github.com/dfarrel1/dots "personal dots repo"
 
 
