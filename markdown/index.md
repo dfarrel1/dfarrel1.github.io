@@ -84,15 +84,17 @@ Programming Languages
 
 :   **Python:** 6 Years experience. I've built many products with python. 
 
-:   **Scala:** Completed Courses from EPFL in Functional Programming and Software Development with Scala. I have three years experience developing in Scala. 
+:   **Scala:**  3 years experience developing in Scala. Completed Courses from EPFL in Functional Programming and Software Development with Scala.
 
 :   **JavaScript, React:** I've used JavaScript and React in my side project, Gifthorse.
 
-:   **SQL:** Well versed in sql. I have built products that leverage RDS, Snowflake, and Spark SQL. 
+:   **SQL:** Well versed in sql. I have built several products that leverage RDS, Snowflake, and Spark SQL. 
 
 :   **Bash:** I use it lightly, but pretty consistently for convenience scripts, installation scripts, etc. e.g. [dots]
 
-:   Basic knowledge of **C**, **Java**, **D3**
+:   Basic knowledge of **C++**, **Java**, **D3** 
+
+:   I'm very rusty now, but I used to use **Mathematica**, **Matlab**, **Perl**
 
 
 Data Engineering
