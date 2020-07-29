@@ -9,7 +9,7 @@ Dene Farrell
 
 ----
 
->  In love with data driven decisions and building the platforms that enable them.
+>  In love with data driven decision making and building the platforms that enable it.
 
 ----
 
@@ -113,7 +113,7 @@ Team Management
 
 ---- 
 
-> [pdf] • [txt] • [doc] • [web] • [generator] • [one-page]
+> [pdf] • [txt] • [doc] • [web] • [generator] • [one-page] • [cv+publications]
 
 [pdf]: https://dfarrel1.github.io/index.pdf "pdf version"
 [txt]: https://dfarrel1.github.io/index.txt "tex version"
@@ -121,6 +121,7 @@ Team Management
 [web]: https://dfarrel1.github.io/ "web version"
 [generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
 [one-page]: https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2020-July-onepage.pdf "one page pdf"
+[cv+publications]: https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2020-July.pdf "vc pdf"
 [github]: https://github.com/dfarrel1 "personal github"
 [linkedin]: https://www.linkedin.com/in/denefarrell/ "personal linkedin"
 [gifthorse]: https://gifthorse.shop "gifthorse"

@@ -6,8 +6,8 @@ Dene Farrell
 
 ------------------------------------------------------------------------
 
-  In love with data driven decisions and building the platforms that
-  enable them.
+  In love with data driven decision making and building the platforms
+  that enable it.
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ Team Management
 
 ------------------------------------------------------------------------
 
-  pdf • txt • doc • web • generator • one-page
+  pdf • txt • doc • web • generator • one-page • cv+publications
