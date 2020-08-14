@@ -58,7 +58,7 @@ New York, Jan. 2017 – Mar. 2017
 -   Tech stack: Kafka, Hadoop, Spark Streaming, ElasticSearch, Kibana.
     [Python + Scala]
 
-Sloan Kettering Institute - Image Analysis Engineer
+Sloan Kettering Institute - Software Engineer
 New York, Dec. 2008 – Jan. 2017
 
 -   Built image processing applications for understanding early
@@ -71,6 +71,8 @@ New York, Dec. 2008 – Jan. 2017
     previously unobtainable 4D data.
 
 -   Co-authored several publication in premiere journals such as Nature.
+
+-   Built applications with Matlab, Python, and Java
 
 Education
 
@@ -98,24 +100,21 @@ Skills
 
 Programming Languages
 
-    Python: 6 Years experience. I’ve built many products with python.
+    Python: 7 Years experience. I’ve built many products with python.
 
     Scala: 3 years experience developing in Scala. Completed Courses
     from EPFL in Functional Programming and Software Development with
     Scala.
 
-    JavaScript, React: I’ve used JavaScript and React in my side
-    project, Gifthorse.
+    JavaScript, React: 2 years experience. I use JavaScript and React in
+    my side project, Gifthorse.
 
     SQL: Well versed in sql. I have built several products that leverage
     RDS, Snowflake, and Spark SQL.
 
-    Bash: I use it lightly, but pretty consistently for convenience
-    scripts, installation scripts, etc. e.g. dots
+    Bash: I use it lightly, but consistently e.g. dots
 
-    Basic knowledge of C++, Java, D3
-
-    I’m very rusty now, but I used to use Mathematica, Matlab, Perl
+    Basic knowledge of C++, Java, D3, Mathematica, Matlab, Perl
 
 Data Engineering
 

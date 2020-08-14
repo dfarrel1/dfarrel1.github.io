@@ -44,7 +44,7 @@ New York, Jan. 2017 – Mar. 2017
 
 * Tech stack: Kafka, Hadoop, Spark Streaming, ElasticSearch, Kibana. [Python + Scala]
 
-**Sloan Kettering Institute** - Image Analysis Engineer  
+**Sloan Kettering Institute** - Software Engineer  
 New York, Dec. 2008 – Jan. 2017  
 
 * Built image processing applications for understanding early Drosophila embryo development.
@@ -54,6 +54,8 @@ New York, Dec. 2008 – Jan. 2017
 * Enhanced image processing capabilities in order to analyze previously unobtainable 4D data.
 
 * Co-authored several publication in premiere journals such as Nature.
+
+* Built applications with Matlab, Python, and Java
 
 Education
 ---------
@@ -82,19 +84,17 @@ Skills
 
 Programming Languages
 
-:   **Python:** 6 Years experience. I've built many products with python. 
+:   **Python:** 7 Years experience. I've built many products with python. 
 
 :   **Scala:**  3 years experience developing in Scala. Completed Courses from EPFL in Functional Programming and Software Development with Scala.
 
-:   **JavaScript, React:** I've used JavaScript and React in my side project, Gifthorse.
+:   **JavaScript, React:** 2 years experience. I use JavaScript and React in my side project, Gifthorse.
 
 :   **SQL:** Well versed in sql. I have built several products that leverage RDS, Snowflake, and Spark SQL. 
 
-:   **Bash:** I use it lightly, but pretty consistently for convenience scripts, installation scripts, etc. e.g. [dots]
+:   **Bash:** I use it lightly, but consistently e.g. [dots]
 
-:   Basic knowledge of **C++**, **Java**, **D3** 
-
-:   I'm very rusty now, but I used to use **Mathematica**, **Matlab**, **Perl**
+:   Basic knowledge of **C++**, **Java**, **D3**, **Mathematica**, **Matlab**, **Perl**
 
 
 Data Engineering
@@ -122,8 +122,8 @@ Team Management
 [doc]: https://dfarrel1.github.io/index.docx "doc version"
 [web]: https://dfarrel1.github.io/ "web version"
 [generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
-[one-page]: https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2020-July-onepage.pdf "one page pdf"
-[cv+publications]: https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2020-July.pdf "vc pdf"
+[one-page]: https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2020-August-onepage.pdf "one page pdf"
+[cv+publications]: https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2020-August.pdf "vc pdf"
 [github]: https://github.com/dfarrel1 "personal github"
 [linkedin]: https://www.linkedin.com/in/denefarrell/ "personal linkedin"
 [gifthorse]: https://gifthorse.shop "gifthorse"
