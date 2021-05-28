@@ -17,7 +17,7 @@ DENE FARRELL
 
 Experience
 
-DEFENSE DIGITAL SERVICE, ROGUE SQUADRON - Data Architect
+DEFENSE DIGITAL SERVICE - Data Architect
 Washington DC, November 2020 - Present
 
 -   Designed, developed and deployed a real-time streaming analytics

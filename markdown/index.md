@@ -16,7 +16,7 @@ Dene Farrell
 Experience
 ---------
 
-**[Defense Digital Service], Rogue Squadron** - Data Architect  
+**[Defense Digital Service]** - Data Architect  
 Washington DC, November 2020 - Present
 
 * Designed, developed and deployed a real-time streaming analytics platform for ingestion of and machine learning on IoT data.
