@@ -20,7 +20,7 @@ body {
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    color: #205bfc;
+    color: #2099fc;
     text-align:center;
     margin-bottom:15px;
 }
@@ -75,7 +75,7 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #2099fc;
+    color: #205bfc;
 }
 a:hover, a:active {
     background-color: #2099fc;
