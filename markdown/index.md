@@ -3,9 +3,9 @@ Dene Farrell
 
 ----
 
-> [github] |
-> [linkedIn] |
-> [resume][web]
+> **[github]** |
+> **[linkedIn]** |
+> **[resume][web]**
 
 ----
 
