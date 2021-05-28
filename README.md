@@ -14,7 +14,7 @@ vim markdown/index.md   # insert your own resume info
 Make everything
 
 ```bash
-make
+make all
 ```
 
 Make specifics

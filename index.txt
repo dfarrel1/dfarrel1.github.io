@@ -1,4 +1,7 @@
-Dene Farrell
+
+
+DENE FARRELL
+
 
 ------------------------------------------------------------------------
 
@@ -6,15 +9,26 @@ Dene Farrell
 
 ------------------------------------------------------------------------
 
-  In love with data driven decision making and building the platforms
-  that enable it.
+  Enabling data driven decision making through well-architected cloud
+  solutions.
 
 ------------------------------------------------------------------------
 
+
 Experience
 
-Latch - Senior Manager, Data Engineering
-New York, Sept 2019 – Present
+DEFENSE DIGITAL SERVICE, ROGUE SQUADRON - Data Architect
+Washington DC, November 2020 - Present
+
+-   Designed, developed and deployed a real-time streaming analytics
+    platform for ingestion of and machine learning on IoT data.
+
+-   Established a cloud-based data brokering service allowing for
+    integration of external data producers and data consumers across the
+    DoD.
+
+LATCH - Senior Manager, Data Engineering
+New York, Sept 2019 – Nov 2020
 
 -   Managed a team of five including three data engineers, a data
     scientist, and a business analyst
@@ -22,17 +36,18 @@ New York, Sept 2019 – Present
 -   Delivered several cross-company services: Data Centralization and
     Governance, Data Ecosystem Management with Automated Analytics,
     Company Operational Notifications, CRM to ERP Integration, PII
-    Anonymization, ML Pipeline Development and Deployment Framework
+    Anonymization, ML Pipeline Development and Deployment Framework.
 
--   Worked with diverse stakeholders while constantly adapting to meet
-    the data needs at Latch.
+-   Coordinated central data platform initiatives with diverse
+    stakeholders while constantly adapting to meet the day-to-day data
+    needs at Latch.
 
-Capital One - Principal Data Engineer
+CAPITAL ONE - Principal Data Engineer
 New York, May 2017 – Sept 2019
 
--   Lead Card-on-file Detections: Successfully built and deployed a
-    classification pipeline that identifies for all credit card holders
-    which merchants have stored their credentials on file.
+-   Lead Card-on-file Detections: Successfully deployed a classification
+    pipeline that identifies for all credit card holders which merchants
+    have stored their credentials on file.
 
 -   Developed a general purpose data visualization tool for handling
     highly inter-related categorical variables at high volumes, high
@@ -46,7 +61,7 @@ New York, May 2017 – Sept 2019
     pipeline to service a multi-armed bandit call schedule
     recommendation service with Python, Snowflake, and Kubernetes.
 
-Insight Data Science - Data Engineering Fellow
+INSIGHT FELLOWS PROGRAM - Data Engineering Fellow
 New York, Jan. 2017 – Mar. 2017
 
 -   Deployed Fleetingly, a taxi fleet analysis application for scalable
@@ -55,10 +70,10 @@ New York, Jan. 2017 – Mar. 2017
 -   Implemented fleet performance analysis with live streaming and
     historical pattern visualizations.
 
--   Tech stack: Kafka, Hadoop, Spark Streaming, ElasticSearch, Kibana.
-    [Python + Scala]
+-   Tech stack: Kafka, Spark Streaming, ElasticSearch, Kibana. [Python +
+    Scala]
 
-Sloan Kettering Institute - Software Engineer
+SLOAN KETTERING INSTITUTE - Software Engineer
 New York, Dec. 2008 – Jan. 2017
 
 -   Built image processing applications for understanding early
@@ -74,17 +89,19 @@ New York, Dec. 2008 – Jan. 2017
 
 -   Built applications with Matlab, Python, and Java
 
+
 Education
 
 2008
-    M.S., Systems Science; State University of New York, Binghamton
+    M.S., SYSTEMS SCIENCE; State University of New York, Binghamton
 
 2006
-    B.S., Bioengineering; State University of New York, Binghamton
+    B.S., BIOENGINEERING; State University of New York, Binghamton
+
 
 Side Projects
 
-Gifthorse Inc - Founder and Developer
+GIFTHORSE INC - Founder and Developer
 New York, June 2018 – Present
 
 -   Developed a fun and easy to use gift recommender service
@@ -96,25 +113,30 @@ New York, June 2018 – Present
     functionality, basic recommendation functionalities, authentication,
     CICD Deployments
 
+
 Skills
 
 Programming Languages
 
-    Python: 7 Years experience. I’ve built many products with python.
+    PYTHON: 8 Years experience.
 
-    Scala: 3 years experience developing in Scala. Completed Courses
+    SCALA: 3 years experience developing in Scala. Completed Courses
     from EPFL in Functional Programming and Software Development with
     Scala.
 
-    JavaScript, React: 2 years experience. I use JavaScript and React in
-    my side project, Gifthorse.
+    JAVASCRIPT, TYPESCRIPT, REACT: 2 years experience. I use JavaScript
+    and React in my side project, Gifthorse and leveraged typescript
+    most recently at DDS to contribute to web app products.
 
-    SQL: Well versed in sql. I have built several products that leverage
-    RDS, Snowflake, and Spark SQL.
+    SQL: I have built several products that leverage RDS (Postgres),
+    Snowflake, Spark SQL and Teradata. Additionally I have build and
+    integrate with NOSQL systems such as MongoDB, Elasticsearch, and
+    DynamoDB.
 
-    Bash: I use it lightly, but consistently e.g. dots
+    SHELL (BASH): e.g. dots
 
-    Basic knowledge of C++, Java, D3, Mathematica, Matlab, Perl
+    Basic knowledge:
+    C++, JAVA, D3, MATHEMATICA, MATLAB, PERL
 
 Data Engineering
 

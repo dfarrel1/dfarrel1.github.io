@@ -3,31 +3,39 @@ Dene Farrell
 
 ----
 
-> [github] | 
+> [github] |
 > [linkedIn] |
 > [resume][web]
 
 ----
 
->  In love with data driven decision making and building the platforms that enable it.
+> Enabling data driven decision making through well-architected cloud solutions.
 
 ----
 
 Experience
 ---------
-**Latch** - Senior Manager, Data Engineering  
-New York, Sept 2019 – Present  
+
+**[Defense Digital Service], Rogue Squadron** - Data Architect  
+Washington DC, November 2020 - Present
+
+* Designed, developed and deployed a real-time streaming analytics platform for ingestion of and machine learning on IoT data.
+
+* Established a cloud-based data brokering service allowing for integration of external data producers and data consumers across the DoD.
+
+**[Latch]** - Senior Manager, Data Engineering  
+New York, Sept 2019 – Nov 2020  
 
 * Managed a team of five including three data engineers, a data scientist, and a business analyst
 
-* Delivered several cross-company services: Data Centralization and Governance, Data Ecosystem Management with Automated Analytics, Company Operational Notifications, CRM to ERP Integration, PII Anonymization, ML Pipeline Development and Deployment Framework 
+* Delivered several cross-company services: Data Centralization and Governance, Data Ecosystem Management with Automated Analytics, Company Operational Notifications, CRM to ERP Integration, PII Anonymization, ML Pipeline Development and Deployment Framework.
 
-* Worked with diverse stakeholders while constantly adapting to meet the data needs at Latch.
+* Coordinated central data platform initiatives with diverse stakeholders while constantly adapting to meet the day-to-day data needs at Latch.
 
-**Capital One** - Principal Data Engineer  
+**[Capital One]** - Principal Data Engineer  
 New York, May 2017 – Sept 2019  
 
-* Lead Card-on-file Detections: Successfully built and deployed a classification pipeline that identifies for all credit card holders which merchants have stored their credentials on file.
+* Lead Card-on-file Detections: Successfully deployed a classification pipeline that identifies for all credit card holders which merchants have stored their credentials on file.
 
 * Developed a general purpose data visualization tool for handling highly inter-related categorical variables at high volumes, high state variability, low documentation and low stability. Leveraged Spark and D3. Implemented on credit card transaction data.
 
@@ -35,16 +43,16 @@ New York, May 2017 – Sept 2019
 
 * Implemented a comprehensive customer profile feature engineering pipeline to service a multi-armed bandit call schedule recommendation service with Python, Snowflake, and Kubernetes.
 
-**Insight Data Science** - Data Engineering Fellow  
+**[Insight Fellows Program]** - Data Engineering Fellow  
 New York, Jan. 2017 – Mar. 2017  
 
 * Deployed Fleetingly, a taxi fleet analysis application for scalable sensing of geospatial patterns
 
-* Implemented fleet performance analysis with live streaming and historical pattern visualizations. 
+* Implemented fleet performance analysis with live streaming and historical pattern visualizations.
 
-* Tech stack: Kafka, Hadoop, Spark Streaming, ElasticSearch, Kibana. [Python + Scala]
+* Tech stack: Kafka, Spark Streaming, ElasticSearch, Kibana. [Python + Scala]
 
-**Sloan Kettering Institute** - Software Engineer  
+**[Sloan Kettering Institute]** - Software Engineer  
 New York, Dec. 2008 – Jan. 2017  
 
 * Built image processing applications for understanding early Drosophila embryo development.
@@ -84,18 +92,18 @@ Skills
 
 Programming Languages
 
-:   **Python:** 7 Years experience. I've built many products with python. 
+:   **Python:** 8 Years experience.  
 
 :   **Scala:**  3 years experience developing in Scala. Completed Courses from EPFL in Functional Programming and Software Development with Scala.
 
-:   **JavaScript, React:** 2 years experience. I use JavaScript and React in my side project, Gifthorse.
+:   **JavaScript, Typescript, React:** 2 years experience. I use JavaScript and React in my side project, Gifthorse and leveraged typescript most recently at DDS to contribute to web app products.
 
-:   **SQL:** Well versed in sql. I have built several products that leverage RDS, Snowflake, and Spark SQL. 
+:   **SQL:** I have built several products that leverage RDS (Postgres), Snowflake, Spark SQL and Teradata. Additionally I have build and integrate with NOSQL systems such as MongoDB, Elasticsearch, and DynamoDB.
 
-:   **Bash:** I use it lightly, but consistently e.g. [dots]
+:   **Shell (Bash):** e.g. [dots]
 
-:   Basic knowledge of **C++**, **Java**, **D3**, **Mathematica**, **Matlab**, **Perl**
-
+:   Basic knowledge:  
+ **C++**, **Java**, **D3**, **Mathematica**, **Matlab**, **Perl**
 
 Data Engineering
 
@@ -105,15 +113,15 @@ Machine Learning
 
 :   Classification, Regression, Data Wrangling, Feature Engineering, Entity Resolution, Artificial Neural Networks, Unsupervised Learning Algorithms, K-Means Clustering, PCA, Data Visualization
 
-Team Management 
+Team Management  
 
-:    Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder Communication, Software Team Productivity Enhancements, Architecture Decision Records, Software and Data System Documentation Strategies 
+:    Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder Communication, Software Team Productivity Enhancements, Architecture Decision Records, Software and Data System Documentation Strategies  
 
 ----
 
 > <dene.farrell@gmail.com> • 914.602.3847 • New York
 
----- 
+----  
 
 > [pdf] • [txt] • [doc] • [web] • [generator] • [one-page] • [cv+publications]
 
@@ -122,11 +130,14 @@ Team Management
 [doc]: https://dfarrel1.github.io/index.docx "doc version"
 [web]: https://dfarrel1.github.io/ "web version"
 [generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
-[one-page]: https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2020-August-onepage.pdf "one page pdf"
-[cv+publications]: https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2020-August.pdf "vc pdf"
+[one-page]: https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2021-June-onepage.pdf "one page pdf"
+[cv+publications]: https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2021-June.pdf "cv pdf"
 [github]: https://github.com/dfarrel1 "personal github"
 [linkedin]: https://www.linkedin.com/in/denefarrell/ "personal linkedin"
 [gifthorse]: https://gifthorse.shop "gifthorse"
 [dots]: https://github.com/dfarrel1/dots "personal dots repo"
-
-
+[Defense Digital Service]: https://www.dds.mil/ "Defense Digital Service"
+[Latch]: https://www.latch.com/ "Latch"
+[Capital One]: https://www.capitalone.com/tech/ "Capital One"
+[Insight Fellows Program]: https://insightfellows.com/ "Insight Fellows Program"
+[Sloan Kettering Institute]: https://www.mskcc.org/research/ski/labs/jennifer-zallen "Sloan Kettering Institute"
