@@ -1,24 +1,34 @@
-
-
-DENE FARRELL
-
+Dene Farrell
 
 ------------------------------------------------------------------------
 
-  GITHUB | LINKEDIN | RESUME
+  github | linkedIn | resume
 
 ------------------------------------------------------------------------
 
-  Enabling data driven decision making through well-architected cloud
-  solutions.
+Professional Summary
+I lead organizations forward into modern technology solutions by
+directly addressing the hard tradeoffs in the complex spaces of cloud
+computing, distributed systems, data platforms, and enterprise
+technology strategies. I am especially effective at distinguishing which
+products and vendors are critical to the success of an organization. I
+bring with me two decades of technical experience and ten years of
+leadership roles. I have lead teams and products of varying sizes from
+small to large. I have developed enterprise data and technology
+strategies for organizations greater than 200 people.
 
 ------------------------------------------------------------------------
-
 
 Experience
 
-DEFENSE DIGITAL SERVICE - Data Architect
+Defense Digital Service - Data Architect
 Washington DC, November 2020 - Present
+
+-   Lead a team of developers to transition from monolithic applications
+    to distributed computing. In collaboration with the team, we
+    successfully reeingineered a system design from an overloaded web
+    application into decoupled microservices that leverage severless
+    architecture solutions.
 
 -   Designed, developed and deployed a real-time streaming analytics
     platform for ingestion of and machine learning on IoT data.
@@ -27,7 +37,13 @@ Washington DC, November 2020 - Present
     integration of external data producers and data consumers across the
     DoD.
 
-LATCH - Senior Manager, Data Engineering
+-   Supported the the Afgan Noncombatant Evacuation Operation rapid
+    response support in partnership between DDS and the State
+    Department. Contributed to larger team efforts by rapidly deploying
+    underlying cloud infrastructure for future application development
+    and deployment.
+
+Latch - Senior Manager, Data Engineering
 New York, Sept 2019 – Nov 2020
 
 -   Managed a team of five including three data engineers, a data
@@ -42,12 +58,13 @@ New York, Sept 2019 – Nov 2020
     stakeholders while constantly adapting to meet the day-to-day data
     needs at Latch.
 
-CAPITAL ONE - Principal Data Engineer
+Capital One - Principal Data Engineer
 New York, May 2017 – Sept 2019
 
 -   Lead Card-on-file Detections: Successfully deployed a classification
     pipeline that identifies for all credit card holders which merchants
-    have stored their credentials on file.
+    have stored their credentials on file. Lead a team of four to five
+    software engineers and data scientists of the course of this work.
 
 -   Developed a general purpose data visualization tool for handling
     highly inter-related categorical variables at high volumes, high
@@ -61,7 +78,7 @@ New York, May 2017 – Sept 2019
     pipeline to service a multi-armed bandit call schedule
     recommendation service with Python, Snowflake, and Kubernetes.
 
-INSIGHT FELLOWS PROGRAM - Data Engineering Fellow
+Insight Fellows Program - Data Engineering Fellow
 New York, Jan. 2017 – Mar. 2017
 
 -   Deployed Fleetingly, a taxi fleet analysis application for scalable
@@ -73,7 +90,7 @@ New York, Jan. 2017 – Mar. 2017
 -   Tech stack: Kafka, Spark Streaming, ElasticSearch, Kibana. [Python +
     Scala]
 
-SLOAN KETTERING INSTITUTE - Software Engineer
+Sloan Kettering Institute - Software Engineer
 New York, Dec. 2008 – Jan. 2017
 
 -   Built image processing applications for understanding early
@@ -89,19 +106,17 @@ New York, Dec. 2008 – Jan. 2017
 
 -   Built applications with Matlab, Python, and Java
 
-
 Education
 
 2008
-    M.S., SYSTEMS SCIENCE; State University of New York, Binghamton
+    M.S., Systems Science; State University of New York, Binghamton
 
 2006
-    B.S., BIOENGINEERING; State University of New York, Binghamton
-
+    B.S., Bioengineering; State University of New York, Binghamton
 
 Side Projects
 
-GIFTHORSE INC - Founder and Developer
+Gifthorse Inc - Founder and Developer
 New York, June 2018 – Present
 
 -   Developed a fun and easy to use gift recommender service
@@ -113,18 +128,17 @@ New York, June 2018 – Present
     functionality, basic recommendation functionalities, authentication,
     CICD Deployments
 
-
 Skills
 
 Programming Languages
 
-    PYTHON: 8 Years experience.
+    Python: 10 Years experience.
 
-    SCALA: 3 years experience developing in Scala. Completed Courses
-    from EPFL in Functional Programming and Software Development with
-    Scala.
+    Scala, Java: 3 years experience developing in Scala and Java.
+    Completed Courses from EPFL in Functional Programming and Software
+    Development with Scala.
 
-    JAVASCRIPT, TYPESCRIPT, REACT: 2 years experience. I use JavaScript
+    JavaScript, Typescript, React: 2 years experience. I use JavaScript
     and React in my side project, Gifthorse and leveraged typescript
     most recently at DDS to contribute to web app products.
 
@@ -133,17 +147,17 @@ Programming Languages
     integrate with NOSQL systems such as MongoDB, Elasticsearch, and
     DynamoDB.
 
-    SHELL (BASH): e.g. dots
+    Shell (Bash): e.g. dots
 
     Basic knowledge:
-    C++, JAVA, D3, MATHEMATICA, MATLAB, PERL
+    C++, D3, Mathematica, Matlab, Perl
 
 Data Engineering
 
     AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask,
     Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI,
     Snowflake, Docker, Kubernetes, System Architecture and System
-    Design, Looker
+    Design, Looker, Terraform
 
 Machine Learning
 

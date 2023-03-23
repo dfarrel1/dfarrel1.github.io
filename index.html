@@ -5,15 +5,161 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>index</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
   <style type="text/css">
   /*
    * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
@@ -23,7 +169,7 @@
    * This CSS document is delivered to you under the CC BY-SA 3.0 License.
    * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
    */
-  
+
   /* Whole document */
   body {
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -32,7 +178,7 @@
       background: #FFFFFF;
       padding: 10px 10px 10px 10px;
   }
-  
+
   /* Title of the resume */
   h1 {
       font-size: 55px;
@@ -45,7 +191,7 @@
   /*     color: #FFFFFF; */
   /*     text-shadow: 1px 1px 1px #333; */
   /* } */
-  
+
   /* Titles of categories */
   h2 {
       /* This is called "sectioncolor" in the ConTeXt stylesheet. */
@@ -66,7 +212,7 @@
   /*     color: #FFFFFF; */
   /*     text-shadow: 1px 1px 1px #333; */
   /* } */
-  
+
   /* Definitions */
   dt {
       float: left;
@@ -82,12 +228,12 @@
       margin-top:0;
       margin-bottom:7px;
   }
-  
+
   /* Blockquotes */
   blockquote {
       text-align: center
   }
-  
+
   /* Links */
   a {
       text-decoration: none;
@@ -99,73 +245,139 @@
       text-decoration: none;
       text-shadow: 1px 1px 1px #333;
   }
-  
+
   /* Horizontal separators */
   hr {
       color: #A6A6A6;
   }
-  
+
   table {
       width: 100%;
   }
   </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <h1 id="dene-farrell">Dene Farrell</h1>
 <hr />
 <blockquote>
-<p><strong><a href="https://github.com/dfarrel1" target="_blank" title="personal github">github</a></strong> | <strong><a href="https://www.linkedin.com/in/denefarrell/" target="_blank" title="personal linkedin">linkedIn</a></strong> | <strong><a href="https://dfarrel1.github.io/" target="_blank" title="web version">resume</a></strong></p>
+<p><strong><a href="https://github.com/dfarrel1" target="_blank"
+title="personal github">github</a></strong> | <strong><a
+href="https://www.linkedin.com/in/denefarrell/" target="_blank"
+title="personal linkedin">linkedIn</a></strong> | <strong><a
+href="https://dfarrel1.github.io/" target="_blank"
+title="web version">resume</a></strong></p>
 </blockquote>
 <hr />
-<blockquote>
-<p>Enabling data driven decision making through well-architected cloud solutions.</p>
-</blockquote>
+<p><strong>Professional Summary</strong><br />
+I lead organizations forward into modern technology solutions by
+directly addressing the hard tradeoffs in the complex spaces of cloud
+computing, distributed systems, data platforms, and enterprise
+technology strategies. I am especially effective at distinguishing which
+products and vendors are critical to the success of an organization. I
+bring with me two decades of technical experience and ten years of
+leadership roles. I have lead teams and products of varying sizes from
+small to large. I have developed enterprise data and technology
+strategies for organizations greater than 200 people.</p>
 <hr />
 <h2 id="experience">Experience</h2>
-<p><strong><a href="https://www.dds.mil/" target="_blank" title="Defense Digital Service">Defense Digital Service</a></strong> - Data Architect<br />
+<p><strong><a href="https://www.dds.mil/" target="_blank"
+title="Defense Digital Service">Defense Digital Service</a></strong> -
+Data Architect<br />
 Washington DC, November 2020 - Present</p>
 <ul>
-<li><p>Designed, developed and deployed a real-time streaming analytics platform for ingestion of and machine learning on IoT data.</p></li>
-<li><p>Established a cloud-based data brokering service allowing for integration of external data producers and data consumers across the DoD.</p></li>
+<li><p>Lead a team of developers to transition from monolithic
+applications to distributed computing. In collaboration with the team,
+we successfully reeingineered a system design from an overloaded web
+application into decoupled microservices that leverage severless
+architecture solutions.</p></li>
+<li><p>Designed, developed and deployed a real-time streaming analytics
+platform for ingestion of and machine learning on IoT data.</p></li>
+<li><p>Established a cloud-based data brokering service allowing for
+integration of external data producers and data consumers across the
+DoD.</p></li>
+<li><p>Supported the the Afgan Noncombatant Evacuation Operation rapid
+response support in partnership between DDS and the State Department.
+Contributed to larger team efforts by rapidly deploying underlying cloud
+infrastructure for future application development and
+deployment.</p></li>
 </ul>
-<p><strong><a href="https://www.latch.com/" target="_blank" title="Latch">Latch</a></strong> - Senior Manager, Data Engineering<br />
+<p><strong><a href="https://www.latch.com/" target="_blank"
+title="Latch">Latch</a></strong> - Senior Manager, Data
+Engineering<br />
 New York, Sept 2019 – Nov 2020</p>
 <ul>
-<li><p>Managed a team of five including three data engineers, a data scientist, and a business analyst</p></li>
-<li><p>Delivered several cross-company services: Data Centralization and Governance, Data Ecosystem Management with Automated Analytics, Company Operational Notifications, CRM to ERP Integration, PII Anonymization, ML Pipeline Development and Deployment Framework.</p></li>
-<li><p>Coordinated central data platform initiatives with diverse stakeholders while constantly adapting to meet the day-to-day data needs at Latch.</p></li>
+<li><p>Managed a team of five including three data engineers, a data
+scientist, and a business analyst</p></li>
+<li><p>Delivered several cross-company services: Data Centralization and
+Governance, Data Ecosystem Management with Automated Analytics, Company
+Operational Notifications, CRM to ERP Integration, PII Anonymization, ML
+Pipeline Development and Deployment Framework.</p></li>
+<li><p>Coordinated central data platform initiatives with diverse
+stakeholders while constantly adapting to meet the day-to-day data needs
+at Latch.</p></li>
 </ul>
-<p><strong><a href="https://www.capitalone.com/tech/" target="_blank" title="Capital One">Capital One</a></strong> - Principal Data Engineer<br />
+<p><strong><a href="https://www.capitalone.com/tech/" target="_blank"
+title="Capital One">Capital One</a></strong> - Principal Data
+Engineer<br />
 New York, May 2017 – Sept 2019</p>
 <ul>
-<li><p>Lead Card-on-file Detections: Successfully deployed a classification pipeline that identifies for all credit card holders which merchants have stored their credentials on file.</p></li>
-<li><p>Developed a general purpose data visualization tool for handling highly inter-related categorical variables at high volumes, high state variability, low documentation and low stability. Leveraged Spark and D3. Implemented on credit card transaction data.</p></li>
-<li><p>Re-architected a monolith ML application to microservices using AWS serverless services.</p></li>
-<li><p>Implemented a comprehensive customer profile feature engineering pipeline to service a multi-armed bandit call schedule recommendation service with Python, Snowflake, and Kubernetes.</p></li>
+<li><p>Lead Card-on-file Detections: Successfully deployed a
+classification pipeline that identifies for all credit card holders
+which merchants have stored their credentials on file. Lead a team of
+four to five software engineers and data scientists of the course of
+this work.</p></li>
+<li><p>Developed a general purpose data visualization tool for handling
+highly inter-related categorical variables at high volumes, high state
+variability, low documentation and low stability. Leveraged Spark and
+D3. Implemented on credit card transaction data.</p></li>
+<li><p>Re-architected a monolith ML application to microservices using
+AWS serverless services.</p></li>
+<li><p>Implemented a comprehensive customer profile feature engineering
+pipeline to service a multi-armed bandit call schedule recommendation
+service with Python, Snowflake, and Kubernetes.</p></li>
 </ul>
-<p><strong><a href="https://insightfellows.com/" target="_blank" title="Insight Fellows Program">Insight Fellows Program</a></strong> - Data Engineering Fellow<br />
+<p><strong><a href="https://insightfellows.com/" target="_blank"
+title="Insight Fellows Program">Insight Fellows Program</a></strong> -
+Data Engineering Fellow<br />
 New York, Jan. 2017 – Mar. 2017</p>
 <ul>
-<li><p>Deployed Fleetingly, a taxi fleet analysis application for scalable sensing of geospatial patterns</p></li>
-<li><p>Implemented fleet performance analysis with live streaming and historical pattern visualizations.</p></li>
-<li><p>Tech stack: Kafka, Spark Streaming, ElasticSearch, Kibana. [Python + Scala]</p></li>
+<li><p>Deployed Fleetingly, a taxi fleet analysis application for
+scalable sensing of geospatial patterns</p></li>
+<li><p>Implemented fleet performance analysis with live streaming and
+historical pattern visualizations.</p></li>
+<li><p>Tech stack: Kafka, Spark Streaming, ElasticSearch, Kibana.
+[Python + Scala]</p></li>
 </ul>
-<p><strong><a href="https://www.mskcc.org/research/ski/labs/jennifer-zallen" target="_blank" title="Sloan Kettering Institute">Sloan Kettering Institute</a></strong> - Software Engineer<br />
+<p><strong><a
+href="https://www.mskcc.org/research/ski/labs/jennifer-zallen"
+target="_blank" title="Sloan Kettering Institute">Sloan Kettering
+Institute</a></strong> - Software Engineer<br />
 New York, Dec. 2008 – Jan. 2017</p>
 <ul>
-<li><p>Built image processing applications for understanding early Drosophila embryo development.</p></li>
-<li><p>Made advanced computational tools accessible to non-technical users with intuitive interfaces.</p></li>
-<li><p>Enhanced image processing capabilities in order to analyze previously unobtainable 4D data.</p></li>
-<li><p>Co-authored several publication in premiere journals such as Nature.</p></li>
+<li><p>Built image processing applications for understanding early
+Drosophila embryo development.</p></li>
+<li><p>Made advanced computational tools accessible to non-technical
+users with intuitive interfaces.</p></li>
+<li><p>Enhanced image processing capabilities in order to analyze
+previously unobtainable 4D data.</p></li>
+<li><p>Co-authored several publication in premiere journals such as
+Nature.</p></li>
 <li><p>Built applications with Matlab, Python, and Java</p></li>
 </ul>
 <h2 id="education">Education</h2>
 <dl>
 <dt>2008</dt>
-<dd><strong>M.S., Systems Science</strong>; State University of New York, Binghamton
+<dd>
+<strong>M.S., Systems Science</strong>; State University of New York,
+Binghamton
 </dd>
 <dt>2006</dt>
-<dd><strong>B.S., Bioengineering</strong>; State University of New York, Binghamton
+<dd>
+<strong>B.S., Bioengineering</strong>; State University of New York,
+Binghamton
 </dd>
 </dl>
 <h2 id="side-projects">Side Projects</h2>
@@ -173,42 +385,84 @@ New York, Dec. 2008 – Jan. 2017</p>
 New York, June 2018 – Present</p>
 <ul>
 <li><p>Developed a fun and easy to use gift recommender service</p></li>
-<li><p>Django Web Backend, React Frontend, Scala Data Engineering and ML Backend</p></li>
-<li><p>Services implemented: product parsing and updating, basic frontend functionality, basic recommendation functionalities, authentication, CICD Deployments</p></li>
+<li><p>Django Web Backend, React Frontend, Scala Data Engineering and ML
+Backend</p></li>
+<li><p>Services implemented: product parsing and updating, basic
+frontend functionality, basic recommendation functionalities,
+authentication, CICD Deployments</p></li>
 </ul>
 <h2 id="skills">Skills</h2>
 <dl>
 <dt>Programming Languages</dt>
-<dd><p><strong>Python:</strong> 8 Years experience.</p>
+<dd>
+<p><strong>Python:</strong> 10 Years experience.</p>
 </dd>
-<dd><p><strong>Scala:</strong> 3 years experience developing in Scala. Completed Courses from EPFL in Functional Programming and Software Development with Scala.</p>
+<dd>
+<p><strong>Scala, Java:</strong> 3 years experience developing in Scala
+and Java. Completed Courses from EPFL in Functional Programming and
+Software Development with Scala.</p>
 </dd>
-<dd><p><strong>JavaScript, Typescript, React:</strong> 2 years experience. I use JavaScript and React in my side project, Gifthorse and leveraged typescript most recently at DDS to contribute to web app products.</p>
+<dd>
+<p><strong>JavaScript, Typescript, React:</strong> 2 years experience. I
+use JavaScript and React in my side project, Gifthorse and leveraged
+typescript most recently at DDS to contribute to web app products.</p>
 </dd>
-<dd><p><strong>SQL:</strong> I have built several products that leverage RDS (Postgres), Snowflake, Spark SQL and Teradata. Additionally I have build and integrate with NOSQL systems such as MongoDB, Elasticsearch, and DynamoDB.</p>
+<dd>
+<p><strong>SQL:</strong> I have built several products that leverage RDS
+(Postgres), Snowflake, Spark SQL and Teradata. Additionally I have build
+and integrate with NOSQL systems such as MongoDB, Elasticsearch, and
+DynamoDB.</p>
 </dd>
-<dd><p><strong>Shell (Bash):</strong> e.g. <a href="https://github.com/dfarrel1/dots" target="_blank" title="personal dots repo">dots</a></p>
+<dd>
+<p><strong>Shell (Bash):</strong> e.g. <a
+href="https://github.com/dfarrel1/dots" target="_blank"
+title="personal dots repo">dots</a></p>
 </dd>
-<dd><p>Basic knowledge:<br />
-<strong>C++</strong>, <strong>Java</strong>, <strong>D3</strong>, <strong>Mathematica</strong>, <strong>Matlab</strong>, <strong>Perl</strong></p>
+<dd>
+<p>Basic knowledge:<br />
+<strong>C++</strong>, <strong>D3</strong>, <strong>Mathematica</strong>,
+<strong>Matlab</strong>, <strong>Perl</strong></p>
 </dd>
 <dt>Data Engineering</dt>
-<dd><p>AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask, Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI, Snowflake, Docker, Kubernetes, System Architecture and System Design, Looker</p>
+<dd>
+<p>AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask,
+Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI,
+Snowflake, Docker, Kubernetes, System Architecture and System Design,
+Looker, Terraform</p>
 </dd>
 <dt>Machine Learning</dt>
-<dd><p>Classification, Regression, Data Wrangling, Feature Engineering, Entity Resolution, Artificial Neural Networks, Unsupervised Learning Algorithms, K-Means Clustering, PCA, Data Visualization</p>
+<dd>
+<p>Classification, Regression, Data Wrangling, Feature Engineering,
+Entity Resolution, Artificial Neural Networks, Unsupervised Learning
+Algorithms, K-Means Clustering, PCA, Data Visualization</p>
 </dd>
 <dt>Team Management</dt>
-<dd><p>Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder Communication, Software Team Productivity Enhancements, Architecture Decision Records, Software and Data System Documentation Strategies</p>
+<dd>
+<p>Roadmap Planning, Jira, Agile, Scrum, Kanban, Stakeholder
+Communication, Software Team Productivity Enhancements, Architecture
+Decision Records, Software and Data System Documentation Strategies</p>
 </dd>
 </dl>
 <hr />
 <blockquote>
-<p><a href="mailto:dene.farrell@gmail.com">dene.farrell@gmail.com</a> • 914.602.3847 • New York</p>
+<p><a href="mailto:dene.farrell@gmail.com"
+class="email">dene.farrell@gmail.com</a> • 914.602.3847 • New York</p>
 </blockquote>
 <hr />
 <blockquote>
-<p><a href="https://dfarrel1.github.io/index.pdf" target="_blank" title="pdf version">pdf</a> • <a href="https://dfarrel1.github.io/index.txt" target="_blank" title="tex version">txt</a> • <a href="https://dfarrel1.github.io/index.docx" target="_blank" title="doc version">doc</a> • <a href="https://dfarrel1.github.io/" target="_blank" title="web version">web</a> • <a href="https://github.com/dfarrel1/dfarrel1.github.io/" target="_blank" title="resume generator">generator</a> • <a href="https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2021-June-onepage.pdf" target="_blank" title="one page pdf">one-page</a> • <a href="https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2021-June.pdf" target="_blank" title="cv pdf">cv+publications</a></p>
+<p><a href="https://dfarrel1.github.io/index.pdf" target="_blank"
+title="pdf version">pdf</a> • <a
+href="https://dfarrel1.github.io/index.txt" target="_blank"
+title="tex version">txt</a> • <a
+href="https://dfarrel1.github.io/index.docx" target="_blank"
+title="doc version">doc</a> • <a href="https://dfarrel1.github.io/"
+target="_blank" title="web version">web</a> • <a
+href="https://github.com/dfarrel1/dfarrel1.github.io/" target="_blank"
+title="resume generator">generator</a> • <a
+href="https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2021-June-onepage.pdf"
+target="_blank" title="one page pdf">one-page</a> • <a
+href="https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2021-June.pdf"
+target="_blank" title="cv pdf">cv+publications</a></p>
 </blockquote>
 </body>
 </html>

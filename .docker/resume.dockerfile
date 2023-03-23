@@ -1,4 +1,5 @@
-FROM ubuntu
+# FROM ubuntu
+FROM arm64v8/ubuntu
 
 # prepare a user which runs everything locally! - required in child images!
 RUN useradd --user-group --create-home --shell /bin/false app
@@ -13,8 +14,13 @@ RUN apt-get update && \
     wget \
     context \
     && rm -rf /var/lib/apt/lists/*
-RUN wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
-RUN dpkg -i pandoc-2.2.1-1-amd64.deb  && rm pandoc-*.deb
+
+# RUN wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
+# RUN dpkg -i pandoc-2.2.1-1-amd64.deb  && rm pandoc-*.deb
+
+RUN wget https://github.com/jgm/pandoc/releases/download/3.1.1/pandoc-3.1.1-1-arm64.deb
+RUN dpkg -i pandoc-3.1.1-1-arm64.deb  && rm pandoc-*.deb
+
 #Cleanup to reduce container size
 RUN apt-get remove -y wget && \ 
     apt-get autoclean && \

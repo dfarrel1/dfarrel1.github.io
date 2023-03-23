@@ -9,19 +9,24 @@ Dene Farrell
 
 ----
 
-> Enabling data driven decision making through well-architected cloud solutions.
+**Professional Summary**  
+I lead organizations forward into modern technology solutions by directly addressing the hard tradeoffs in the complex spaces of cloud computing, distributed systems, data platforms, and enterprise technology strategies. I am especially effective at distinguishing which products and vendors are critical to the success of an organization. I bring with me two decades of technical experience and ten years of leadership roles. I have lead teams and products of varying sizes from small to large. I have developed enterprise data and technology strategies for organizations greater than 200 people.
 
 ----
 
 Experience
 ---------
 
-**[Defense Digital Service]** - Data Architect  
+**[Defense Digital Service]** - Digital Service Expert  
 Washington DC, November 2020 - Present
+
+* Lead a team of developers to transition from monolithic applications to distributed computing. In collaboration with the team, we successfully reeingineered a system design from an overloaded web application into decoupled microservices that leverage severless architecture solutions.
 
 * Designed, developed and deployed a real-time streaming analytics platform for ingestion of and machine learning on IoT data.
 
 * Established a cloud-based data brokering service allowing for integration of external data producers and data consumers across the DoD.
+
+* Supported the the Afgan Noncombatant Evacuation Operation rapid response support in partnership between DDS and the State Department. Contributed to larger team efforts by rapidly deploying underlying cloud infrastructure for future application development and deployment.
 
 **[Latch]** - Senior Manager, Data Engineering  
 New York, Sept 2019 – Nov 2020  
@@ -35,7 +40,7 @@ New York, Sept 2019 – Nov 2020
 **[Capital One]** - Principal Data Engineer  
 New York, May 2017 – Sept 2019  
 
-* Lead Card-on-file Detections: Successfully deployed a classification pipeline that identifies for all credit card holders which merchants have stored their credentials on file.
+* Lead Card-on-file Detections: Successfully deployed a classification pipeline that identifies for all credit card holders which merchants have stored their credentials on file. Lead a team of four to five software engineers and data scientists of the course of this work.
 
 * Developed a general purpose data visualization tool for handling highly inter-related categorical variables at high volumes, high state variability, low documentation and low stability. Leveraged Spark and D3. Implemented on credit card transaction data.
 
@@ -92,9 +97,9 @@ Skills
 
 Programming Languages
 
-:   **Python:** 8 Years experience.  
+:   **Python:** 10 Years experience.  
 
-:   **Scala:**  3 years experience developing in Scala. Completed Courses from EPFL in Functional Programming and Software Development with Scala.
+:   **Scala, Java:**  3 years experience developing in Scala and Java. Completed Courses from EPFL in Functional Programming and Software Development with Scala.
 
 :   **JavaScript, Typescript, React:** 2 years experience. I use JavaScript and React in my side project, Gifthorse and leveraged typescript most recently at DDS to contribute to web app products.
 
@@ -103,11 +108,11 @@ Programming Languages
 :   **Shell (Bash):** e.g. [dots]
 
 :   Basic knowledge:  
- **C++**, **Java**, **D3**, **Mathematica**, **Matlab**, **Perl**
+ **C++**, **D3**, **Mathematica**, **Matlab**, **Perl**
 
 Data Engineering
 
-:   AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask, Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI, Snowflake, Docker, Kubernetes, System Architecture and System Design, Looker
+:   AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask, Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI, Snowflake, Docker, Kubernetes, System Architecture and System Design, Looker, Terraform
 
 Machine Learning
 

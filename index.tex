@@ -78,34 +78,44 @@
 
 \starttext
 
-\section[title={Dene Farrell},reference={dene-farrell}]
+\startsectionlevel[title={Dene Farrell},reference={dene-farrell}]
 
 \thinrule
 
 \startblockquote
-{\bf \useURL[url1][https://github.com/dfarrel1][][github]\from[url1]}
-\letterbar{}
-{\bf \useURL[url2][https://www.linkedin.com/in/denefarrell/][][linkedIn]\from[url2]}
-\letterbar{}
-{\bf \useURL[url3][https://dfarrel1.github.io/][][resume]\from[url3]}
+{\bf \goto{github}[url(https://github.com/dfarrel1)]} \letterbar{} {\bf
+\goto{linkedIn}[url(https://www.linkedin.com/in/denefarrell/)]}
+\letterbar{} {\bf \goto{resume}[url(https://dfarrel1.github.io/)]}
 \stopblockquote
 
 \thinrule
 
-\startblockquote
-Enabling data driven decision making through well-architected cloud
-solutions.
-\stopblockquote
+{\bf Professional Summary}\crlf
+I lead organizations forward into modern technology solutions by
+directly addressing the hard tradeoffs in the complex spaces of cloud
+computing, distributed systems, data platforms, and enterprise
+technology strategies. I am especially effective at distinguishing which
+products and vendors are critical to the success of an organization. I
+bring with me two decades of technical experience and ten years of
+leadership roles. I have lead teams and products of varying sizes from
+small to large. I have developed enterprise data and technology
+strategies for organizations greater than 200 people.
 
 \thinrule
 
-\subsection[title={Experience},reference={experience}]
+\startsectionlevel[title={Experience},reference={experience}]
 
-{\bf \useURL[url4][https://www.dds.mil/][][Defense Digital
-Service]\from[url4]} - Data Architect\crlf
+{\bf \goto{Defense Digital Service}[url(https://www.dds.mil/)]} - Data
+Architect\crlf
 Washington DC, November 2020 - Present
 
 \startitemize
+\item
+  Lead a team of developers to transition from monolithic applications
+  to distributed computing. In collaboration with the team, we
+  successfully reeingineered a system design from an overloaded web
+  application into decoupled microservices that leverage severless
+  architecture solutions.
 \item
   Designed, developed and deployed a real-time streaming analytics
   platform for ingestion of and machine learning on IoT data.
@@ -113,10 +123,16 @@ Washington DC, November 2020 - Present
   Established a cloud-based data brokering service allowing for
   integration of external data producers and data consumers across the
   DoD.
+\item
+  Supported the the Afgan Noncombatant Evacuation Operation rapid
+  response support in partnership between DDS and the State Department.
+  Contributed to larger team efforts by rapidly deploying underlying
+  cloud infrastructure for future application development and
+  deployment.
 \stopitemize
 
-{\bf \useURL[url5][https://www.latch.com/][][Latch]\from[url5]} - Senior
-Manager, Data Engineering\crlf
+{\bf \goto{Latch}[url(https://www.latch.com/)]} - Senior Manager, Data
+Engineering\crlf
 New York, Sept 2019 -- Nov 2020
 
 \startitemize
@@ -134,15 +150,16 @@ New York, Sept 2019 -- Nov 2020
   needs at Latch.
 \stopitemize
 
-{\bf \useURL[url6][https://www.capitalone.com/tech/][][Capital
-One]\from[url6]} - Principal Data Engineer\crlf
+{\bf \goto{Capital One}[url(https://www.capitalone.com/tech/)]} -
+Principal Data Engineer\crlf
 New York, May 2017 -- Sept 2019
 
 \startitemize
 \item
   Lead Card-on-file Detections: Successfully deployed a classification
   pipeline that identifies for all credit card holders which merchants
-  have stored their credentials on file.
+  have stored their credentials on file. Lead a team of four to five
+  software engineers and data scientists of the course of this work.
 \item
   Developed a general purpose data visualization tool for handling
   highly inter-related categorical variables at high volumes, high state
@@ -157,8 +174,8 @@ New York, May 2017 -- Sept 2019
   service with Python, Snowflake, and Kubernetes.
 \stopitemize
 
-{\bf \useURL[url7][https://insightfellows.com/][][Insight Fellows
-Program]\from[url7]} - Data Engineering Fellow\crlf
+{\bf \goto{Insight Fellows Program}[url(https://insightfellows.com/)]} -
+Data Engineering Fellow\crlf
 New York, Jan.~2017 -- Mar.~2017
 
 \startitemize
@@ -173,8 +190,9 @@ New York, Jan.~2017 -- Mar.~2017
   Scala{]}
 \stopitemize
 
-{\bf \useURL[url8][https://www.mskcc.org/research/ski/labs/jennifer-zallen][][Sloan
-Kettering Institute]\from[url8]} - Software Engineer\crlf
+{\bf \goto{Sloan Kettering
+Institute}[url(https://www.mskcc.org/research/ski/labs/jennifer-zallen)]}
+- Software Engineer\crlf
 New York, Dec.~2008 -- Jan.~2017
 
 \startitemize
@@ -193,7 +211,9 @@ New York, Dec.~2008 -- Jan.~2017
   Built applications with Matlab, Python, and Java
 \stopitemize
 
-\subsection[title={Education},reference={education}]
+\stopsectionlevel
+
+\startsectionlevel[title={Education},reference={education}]
 
 \startdescription{2008}
   {\bf M.S., Systems Science}; State University of New York, Binghamton
@@ -203,7 +223,9 @@ New York, Dec.~2008 -- Jan.~2017
   {\bf B.S., Bioengineering}; State University of New York, Binghamton
 \stopdescription
 
-\subsection[title={Side Projects},reference={side-projects}]
+\stopsectionlevel
+
+\startsectionlevel[title={Side Projects},reference={side-projects}]
 
 {\bf Gifthorse Inc} - Founder and Developer\crlf
 New York, June 2018 -- Present
@@ -220,14 +242,16 @@ New York, June 2018 -- Present
   CICD Deployments
 \stopitemize
 
-\subsection[title={Skills},reference={skills}]
+\stopsectionlevel
+
+\startsectionlevel[title={Skills},reference={skills}]
 
 \startdescription{Programming Languages}
-  {\bf Python:} 8 Years experience.
+  {\bf Python:} 10 Years experience.
 
-  {\bf Scala:} 3 years experience developing in Scala. Completed Courses
-  from EPFL in Functional Programming and Software Development with
-  Scala.
+  {\bf Scala, Java:} 3 years experience developing in Scala and Java.
+  Completed Courses from EPFL in Functional Programming and Software
+  Development with Scala.
 
   {\bf JavaScript, Typescript, React:} 2 years experience. I use
   JavaScript and React in my side project, Gifthorse and leveraged
@@ -238,19 +262,18 @@ New York, June 2018 -- Present
   integrate with NOSQL systems such as MongoDB, Elasticsearch, and
   DynamoDB.
 
-  {\bf Shell (Bash):} e.g.
-  \useURL[url9][https://github.com/dfarrel1/dots][][dots]\from[url9]
+  {\bf Shell (Bash):}
+  e.g.~\goto{dots}[url(https://github.com/dfarrel1/dots)]
 
   Basic knowledge:\crlf
-  {\bf C++}, {\bf Java}, {\bf D3}, {\bf Mathematica}, {\bf Matlab},
-  {\bf Perl}
+  {\bf C++}, {\bf D3}, {\bf Mathematica}, {\bf Matlab}, {\bf Perl}
 \stopdescription
 
 \startdescription{Data Engineering}
   AWS, Sagemaker, Kafka, Spark, EMR, DynamoDB, AWS Lambda, Flask,
   Django, ElasticSearch, Airflow, Luigi, Ansible, Jenkins, CircleCI,
   Snowflake, Docker, Kubernetes, System Architecture and System Design,
-  Looker
+  Looker, Terraform
 \stopdescription
 
 \startdescription{Machine Learning}
@@ -268,24 +291,25 @@ New York, June 2018 -- Present
 \thinrule
 
 \startblockquote
-\useURL[url10][mailto:dene.farrell@gmail.com][][dene.farrell@gmail.com]\from[url10]
-• 914.602.3847 • New York
+\goto{dene.farrell@gmail.com}[url(mailto:dene.farrell@gmail.com)] •
+914.602.3847 • New York
 \stopblockquote
 
 \thinrule
 
 \startblockquote
-\useURL[url11][https://dfarrel1.github.io/index.pdf][][pdf]\from[url11]
+\goto{pdf}[url(https://dfarrel1.github.io/index.pdf)] •
+\goto{txt}[url(https://dfarrel1.github.io/index.txt)] •
+\goto{doc}[url(https://dfarrel1.github.io/index.docx)] •
+\goto{web}[url(https://dfarrel1.github.io/)] •
+\goto{generator}[url(https://github.com/dfarrel1/dfarrel1.github.io/)] •
+\goto{one-page}[url(https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2021-June-onepage.pdf)]
 •
-\useURL[url12][https://dfarrel1.github.io/index.txt][][txt]\from[url12]
-•
-\useURL[url13][https://dfarrel1.github.io/index.docx][][doc]\from[url13]
-• \useURL[url14][https://dfarrel1.github.io/][][web]\from[url14] •
-\useURL[url15][https://github.com/dfarrel1/dfarrel1.github.io/][][generator]\from[url15]
-•
-\useURL[url16][https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2021-June-onepage.pdf][][one-page]\from[url16]
-•
-\useURL[url17][https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2021-June.pdf][][cv+publications]\from[url17]
+\goto{cv+publications}[url(https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2021-June.pdf)]
 \stopblockquote
+
+\stopsectionlevel
+
+\stopsectionlevel
 
 \stoptext
