@@ -1,4 +1,5 @@
 # FROM ubuntu
+### for Mac M1
 FROM arm64v8/ubuntu
 
 # prepare a user which runs everything locally! - required in child images!
@@ -17,7 +18,7 @@ RUN apt-get update && \
 
 # RUN wget https://github.com/jgm/pandoc/releases/download/2.2.1/pandoc-2.2.1-1-amd64.deb
 # RUN dpkg -i pandoc-2.2.1-1-amd64.deb  && rm pandoc-*.deb
-
+### for Mac M1
 RUN wget https://github.com/jgm/pandoc/releases/download/3.1.1/pandoc-3.1.1-1-arm64.deb
 RUN dpkg -i pandoc-3.1.1-1-arm64.deb  && rm pandoc-*.deb
 

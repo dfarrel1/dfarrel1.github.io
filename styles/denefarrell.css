@@ -83,6 +83,10 @@ a:hover, a:active {
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;
 }
+a, a:link, a:visited {
+    color: #205bfc;
+    text-decoration: none;
+  }
 
 /* Horizontal separators */
 hr {
