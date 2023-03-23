@@ -21,7 +21,7 @@ strategies for organizations greater than 200 people.
 
 Experience
 
-Defense Digital Service - Data Architect
+Defense Digital Service - Digital Service Expert
 Washington DC, November 2020 - Present
 
 -   Lead a team of developers to transition from monolithic applications
