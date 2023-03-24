@@ -66,7 +66,7 @@ New York, Dec. 2008 – Jan. 2017
 
 * Enhanced image processing capabilities in order to analyze previously unobtainable 4D data.
 
-* Co-authored several publication in premiere journals such as Nature.
+* Co-authored several publications in premiere journals such as Nature.
 
 * Built applications with Matlab, Python, and Java
 
@@ -135,8 +135,8 @@ Team Management
 [doc]: https://dfarrel1.github.io/index.docx "doc version"
 [web]: https://dfarrel1.github.io/ "web version"
 [generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
-[one-page]: https://dfarrel1.github.io/one-page/Dene-Farrell-resume-2021-June-onepage.pdf "one page pdf"
-[cv+publications]: https://dfarrel1.github.io/one-page/Dene-Farrell-CV-2021-June.pdf "cv pdf"
+[one-page]: https://dfarrel1.github.io/one-page/2021-June/Dene-Farrell-resume-2021-June-onepage.pdf "one page pdf"
+[cv+publications]: https://dfarrel1.github.io/one-page/2021-June/Dene-Farrell-CV-2021-June.pdf "cv pdf"
 [github]: https://github.com/dfarrel1 "personal github"
 [linkedin]: https://www.linkedin.com/in/denefarrell/ "personal linkedin"
 [gifthorse]: https://gifthorse.shop "gifthorse"
