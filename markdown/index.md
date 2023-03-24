@@ -136,7 +136,7 @@ Team Management
 [web]: https://dfarrel1.github.io/ "web version"
 [generator]: https://github.com/dfarrel1/dfarrel1.github.io/ "resume generator"
 [one-page]: https://dfarrel1.github.io/one-page/2021-June/Dene-Farrell-resume-2021-June-onepage.pdf "one page pdf"
-[cv+publications]: https://dfarrel1.github.io/one-page/2021-June/Dene-Farrell-CV-2021-June.pdf "cv pdf"
+[cv+publications]: https://dfarrel1.github.io/one-page/Dene-Farrell-Full-CV.pdf "cv pdf"
 [github]: https://github.com/dfarrel1 "personal github"
 [linkedin]: https://www.linkedin.com/in/denefarrell/ "personal linkedin"
 [gifthorse]: https://gifthorse.shop "gifthorse"
